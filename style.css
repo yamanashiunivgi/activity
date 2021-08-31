@@ -19,6 +19,7 @@ h1 {
     top: 175px;
     left: 175px;
     letter-spacing: 4px;
+  
 }
 .home:hover {
   background: #ffa500;
@@ -41,6 +42,7 @@ h1 {
     top: 110px;
     left: 375px;
     letter-spacing: 4px;
+  
 } 
 .about:hover {
   background: #ffa500;
@@ -78,6 +80,7 @@ h1 {
     left: 775px;
     letter-spacing: 4px;
 }
+  
 .contact:hover {
   background: #ffa500;
   text-decoration: none;
