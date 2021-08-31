@@ -79,11 +79,11 @@ h1 {
     left: 775px;
     letter-spacing: 4px;
 }
-.activity:hover {
+.contact:hover {
   background: #ffa500;
   text-decoration: none;
 }
-.activity:visited {
+.contact:visited {
   color: #000000;
 }
  
